@@ -28,11 +28,6 @@ A feature-rich productivity web application built with ReactJS that helps users 
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after pushing)*
-
----
 
 ## 🧑‍💻 Getting Started
 
