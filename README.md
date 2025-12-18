@@ -11,9 +11,7 @@ A feature-rich productivity web application built with ReactJS that helps users 
 - ⏰ Due dates with overdue highlighting
 - 🎯 Focus Mode with Pomodoro timer
 - 📊 Productivity analytics dashboard
-- 🌙 Dark mode
 - 💾 Persistent storage using localStorage
-- 🎨 Modern, aesthetic UI with clean UX
 
 ---
 
@@ -32,7 +30,7 @@ A feature-rich productivity web application built with ReactJS that helps users 
 ## 🧑‍💻 Getting Started
 
 ```bash
-git clone https://github.com/your-username/smart-todo.git
+git clone https://github.com/Ramneet2506/smart-todo.git
 cd smart-todo
 npm install
 npm start
